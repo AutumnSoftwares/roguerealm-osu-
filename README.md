@@ -8,3 +8,4 @@ osu! cheat Autumn
 - [X] Relax 
 - [X] Timewarp
 - [X] Hidden & flashlight remover
+- [X] AR / OD changer
