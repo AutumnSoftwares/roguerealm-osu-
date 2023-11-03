@@ -2,4 +2,7 @@
 osu! cheat Autumn
 
 
-# **Features**
+# Features
+- [X] Relax 
+- [X] Timewarp
+- [X] Hidden & flashlight remover
