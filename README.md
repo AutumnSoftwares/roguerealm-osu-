@@ -5,6 +5,7 @@ osu! cheat Autumn
 - [Elitepvpers post](https://www.elitepvpers.com/forum/unlisted-games-trading/5180611-autumn-software-ultimate-osu-enhancement-tool.html#post39755445)
 
 # Features
+- [X] Aim Assist
 - [X] Relax 
 - [X] Timewarp
 - [X] Hidden & flashlight remover
