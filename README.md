@@ -1,5 +1,5 @@
-# <span style="color:green">**Undetected**</span>
-*osu! cheat RogueRealm*
+# <span style="color:green">**osu! cheat RogueRealm**</span>
+*Undetected*
 
 - [click to join discord server](https://discord.gg/KTwEU7625u)
 
