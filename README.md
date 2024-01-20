@@ -1,4 +1,4 @@
-# RogueRealm
+# RogueRealm Undedected
 osu! cheat RogueRealm
 - [click to join discord server](https://discord.gg/KTwEU7625u)
 
